@@ -67,6 +67,10 @@ This project uses the OpenWeatherMap API:
 
 [OpenWeatherMap API](https://openweathermap.org/api?utm_source=chatgpt.com)
 
+## API Key Setup
+Replace:
+api_key = "YOUR_API_KEY"
+with your own OpenWeatherMap API key.
 
 
 ## Learning Outcomes
